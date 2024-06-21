@@ -5,6 +5,10 @@ A cool Flutter project with
 - Feature first project structure
 - Youtube-like UI
 
+## References
+
+- Git Repository: [Simple Flutter By ReiiYuki](https://github.com/ReiiYuki/Sample-Flutter-App/blob/master/lib/features/pokemon/presentation/pages/random_pokemon.dart)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
